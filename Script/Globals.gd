@@ -1,6 +1,7 @@
 extends Node
 
-var World
+var Worlds
 var IndestructibleWall
 var Background
 var Player
+var Timerg
